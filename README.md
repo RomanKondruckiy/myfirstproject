@@ -1,0 +1,2 @@
+# myfirstproject
+Lab2LNTUKondruckiy
